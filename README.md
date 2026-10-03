@@ -58,5 +58,8 @@ docker-compose up -d
 # Access the application
 # Frontend: http://localhost:3000
 # Backend API: http://localhost:3001
-# MinIO Console: http://localhost:9001
+# MinIO Console: http://localhost:9001 
+
+# I made changes to this file
+# how can I know if the port 3000, 3001 and 9001 is free not occupied ?
 ```
